@@ -56,7 +56,7 @@ To build and use `list-util`, you need Go installed on your system. Follow these
 
 ## To Be Implemented
 
- While the current version of `list-util` supports several key flags, there are still some commands and features that are planned for future releases:
+ While the current version of `list-util` supports several key flags, there are still some commands and features that are planned.:
 
 - **`-R` (Recursive)**: Recursively list subdirectories in the specified directory.
 - **`-S` (Sort by size)**: Sort files and directories by their size.
